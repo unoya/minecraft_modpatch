@@ -1,11 +1,11 @@
 {
-    "homepage" : "https://goo.gl/0U177H",
+    "homepage" : "https://goo.gl/xT9mj6",
     "promos" : {
         "1.11.2-latest" : "1.11.2-f1",
         "1.11.2-recommended" : "1.11.2-f1"
     },    
     "1.11.2" : {
         "1.11.2-f0" : "https://goo.gl/HA3KxS",
-	"1.11.2-f1" : "修正一些bug, https://goo.gl/HA3KxS , 如果有發現嚴重的BUG會再立即修正"
+	"1.11.2-f1" : "修正一些bug, https://goo.gl/HA3KxS , 如果有發現嚴重的BUG會再立即修正\n或許要再多測試看看"
     }
 }

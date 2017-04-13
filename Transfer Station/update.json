@@ -6,6 +6,6 @@
     },    
     "1.11.2" : {
         "1.11.2-f0" : "https://goo.gl/HA3KxS",
-		"1.11.2-f1" : "fix some bug, https://goo.gl/HA3KxS"
+	"1.11.2-f1" : {"修正一些bug, https://goo.gl/HA3KxS", "如果有發現嚴重的BUG會再立即修正"}
     }
 }

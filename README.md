@@ -18,4 +18,4 @@
 - 1.11.2 為Minecraft版本
 - f0 代表該模組的版本, f0代表第1版, f1代表第2版, 以此類推
 
-[~ 模組簡易說明 ~](https://github.com/unoya/minecraft_modpatch/wiki)
+[~ 模組簡易說明 ~](https://github.com/unoya/minecraft_modpatch/wiki/首頁)

@@ -1,7 +1,7 @@
 # Minecraft Mod Storage
 無云的Minecraft自製模組倉庫
 
-目前的模組列表:
+模組列表:
 
 - 填補機 (Fill The Earth)
 - 自動撿取 (Gather Item)

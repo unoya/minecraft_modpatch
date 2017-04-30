@@ -7,6 +7,7 @@
 - 自動撿取 (Gather Item)
 - 精煉加倍 (Smelting doubled)
 - 傳送站 (Transfer Station)
+- 全部脫下來 (All Hand Over)
 
     各目錄下存放該模組的每個版本, 請針對你需要的版本去下載即可.
 

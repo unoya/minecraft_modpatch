@@ -1,10 +1,11 @@
 {
     "homepage" : "https://goo.gl/nzdw1w",
     "promos" : {
-        "1.11.2-latest" : "1.11.2-f0",
+        "1.11.2-latest" : "1.11.2-f1",
         "1.11.2-recommended" : "1.11.2-f0"
     },    
     "1.11.2" : {
-        "1.11.2-f0" : "第一個版本 \n first version"
+        "1.11.2-f0" : "第一個版本 \n first version",
+        "1.11.2-f1" : "修正Item狀態時,在JEI模組裡無法顯示小提示訊息 \n fixed JEI can't display tooltip when the item status is set."
     }
 }

@@ -13,6 +13,7 @@
 - 隨身背包 (Carry Bag)
 - 便利儲存箱 (Convenient Chest)
 - 大容量單體倉庫 (Big Storage)
+- 附魔複製機 (Enchant Decomposition)
 
     各目錄下存放該模組的每個版本, 請針對你需要的版本去下載即可.
 

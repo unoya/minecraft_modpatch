@@ -1,10 +1,11 @@
 {
     "homepage" : "https://goo.gl/xxAwoA",
     "promos" : {
-        "1.11.2-latest" : "1.11.2-f0",
-        "1.11.2-recommended" : "1.11.2-f0"
+        "1.11.2-latest" : "1.11.2-f1",
+        "1.11.2-recommended" : "1.11.2-f1"
     },    
     "1.11.2" : {
-        "1.11.2-f0" : "第一個版本 \n first version"
+        "1.11.2-f0" : "第一個版本 \n first version",
+        "1.11.2-f1" : "新增快速全部存入功能, 按住Ctrl鍵再點右鍵可將玩家背包內所有相同的道具都一起存入.\n Add the quick storage function. Hold down the Ctrl key + right click"
     }
 }

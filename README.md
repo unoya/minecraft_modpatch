@@ -34,5 +34,3 @@
 ----------
 
 [瀏覽模組簡易說明](https://github.com/unoya/minecraft_modpatch/wiki)
-
-[無云屋の民間作品](https://goo.gl/xT9mj6)

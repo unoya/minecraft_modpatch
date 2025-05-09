@@ -27,10 +27,4 @@
 
 ----------
 
-**下載模組的操作方法:**
-![](https://github.com/unoya/minecraft_modpatch/blob/master/README/operate.png)
-<br>進入你想要下載的模組目錄裡, 點擊副檔名為jar的檔案, 再如同上圖標示出來的位置, 點擊 **Download** 鈕即可.
-
-----------
-
 [瀏覽模組簡易說明](https://github.com/unoya/minecraft_modpatch/wiki)

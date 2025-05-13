@@ -1,0 +1,17 @@
+# 以下設定為告知Git哪些檔案或資料夾不要被追蹤,不提交, 不上傳
+# VSCode 編輯器設定
+.vscode/
+
+# 系統垃圾檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+.markdownlint.json
+
+# 暫存資料或備份檔
+*.tmp
+*.bak
+*.swp
+*.rar
+*.zip
+*.7z
